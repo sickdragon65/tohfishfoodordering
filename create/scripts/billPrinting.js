@@ -12,7 +12,7 @@ function billprint(orderinfo, cartarray){
 					<p><i class='bx bxs-phone-call' ></i>  +84 909832269</p>
 				</div>
 				<div class="companyaddress">
-					<p><i class='bx bxs-map' ></i> 688/57/101 Lê Đức Thọ, Phường 15, Quận Gò Vấp, TP. Hồ Chí Minh, Việt Nam</p>
+					<p><i class='bx bxs-map' ></i> 332/38 Thoại Ngọc Hầu, Phường 15, Quận Gò Vấp, TP. Hồ Chí Minh, Việt Nam</p>
 				</div>
 			</div>
 			<div class="orderinfo">
